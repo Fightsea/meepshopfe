@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meepshopfe/static/css/main.5b16202c.css",
+    "main.js": "/meepshopfe/static/js/main.df9b33bf.js",
+    "index.html": "/meepshopfe/index.html",
+    "main.5b16202c.css.map": "/meepshopfe/static/css/main.5b16202c.css.map",
+    "main.df9b33bf.js.map": "/meepshopfe/static/js/main.df9b33bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b16202c.css",
+    "static/js/main.df9b33bf.js"
+  ]
+}
